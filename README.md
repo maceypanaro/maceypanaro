@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am a novice software developer looking to expand my skills in Git.
 
 <!--
 **maceypanaro/maceypanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
